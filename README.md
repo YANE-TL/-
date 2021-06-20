@@ -18,3 +18,6 @@
 ### 1.2配置MySQL
 + 具体配置安装详情参考：**[配置安装MySQL](https://blog.csdn.net/sophie1314/article/details/83409339)**
 + 请直接看（三.安装）
+***
+
+### **[笔记参考来源](https://blog.csdn.net/weixin_46218781/article/details/104390016?utm_source=app)**
